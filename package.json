@@ -1,0 +1,15 @@
+{
+    "name": "unit3-web-service",
+    "version": "1.0.0",
+    "description": "A simple RESTful web service using Node.js and Express for UNIT 3 assignment.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "Nainesh",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
