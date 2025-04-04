@@ -12,5 +12,5 @@ This is a simple RESTful web service built using Node.js and Express as part of 
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Nainesh2004/node-user-api.git
 cd UNIT3-Web-Services
